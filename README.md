@@ -4,6 +4,7 @@
 
 -   [Cat Photo App](https://github.com/Matt-Dav/Freecodecamp-Certification-Projects/tree/main/Cat%20Photo%20App)
 -   [Recipe Page](https://github.com/Matt-Dav/Freecodecamp-Certification-Projects/tree/main/Recipe%20Page)
+-   [Travel Agency Page](https://github.com/Matt-Dav/Freecodecamp-Certification-Projects/tree/main/Travel%20Agency%20Page)
 
 # Freecodecamp Certification Progression
 
